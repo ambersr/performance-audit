@@ -1,13 +1,10 @@
-# Performance Audit 
+# Boekenwinkel Broese
 
-Doe een Performance audit op een bestaande website uit je eigen omgeving en rapporteer daarover.
+Voor de Performance Audit test heb ik de boekenwinkel Broese in Utrecht getest. De website verkoopt boeken van verschillende genres.
 
-De instructies van deze opdracht staan in [INSTRUCTIONS](https://github.com/fdnd-task/performance-audit/blob/main/docs/INSTRUCTIONS.md).
- 
+Linkje naar de website: www.broese.nl
 
-## Titel Website
 
-Welke website heb je getest? Beschrijf de website en voeg een screenshot toe.
 
 Toon screenshots van het Lighthouse Performance testresultaat voor Mobile, Desktop, de Core Web Vitals Assessment van PageSpeed Insights (als die beschikbaar is) en de waterfall chart van WebPageTest.
 
