@@ -10,6 +10,9 @@ Linkje naar de website: www.broese.nl
 Voor deze performance-audit heb ik de website van Broese getest met drie verschillende tools: Lighthouse, Google PageSpeed Insights en WebPageTest. Elk van deze tools geeft op zijn eigen manier inzicht in hoe snel en efficiënt de website laadt, zowel op mobiel als op desktop. Hieronder bespreek ik kort de resultaten per test en trek ik aan het einde een algemene conclusie.
 
 ### Lighthouse test
+
+Linkje naar mijn bevindingen van de [Lighthouse test](https://github.com/ambersr/performance-audit/wiki/Bevindingen-Lighthousetest) in de Wiki.
+
 **Mobile**
 
 Belangrijke bevindingen:
@@ -28,10 +31,14 @@ Belangrijke bevindingen:
 <img width="1469" alt="image" src="https://github.com/user-attachments/assets/c862cf04-ac2d-463f-ba91-890bcff092ee" />
 
 ### PageSpeed test
+
+Linkje naar mijn bevindingen van de [PageSpeed test](https://github.com/ambersr/performance-audit/wiki/Bevindingen-PageSpeed-Insights) in de Wiki.
+
 **Mobile**
 
 Belangrijke bevindingen:
 - Onnodige, ongebruikte Javascript en CSS
+- Zware afbeeldingen
 <br>
 <img width="1467" alt="image" src="https://github.com/user-attachments/assets/791a0b5d-63b0-4a67-ad9c-abe4041ff433" />
 
@@ -39,10 +46,13 @@ Belangrijke bevindingen:
 
 Belangrijke bevindingen:
 - Te grote afbeeldingbestanden
+- Teveel externe scripts die ingeladen worden (Google Analytics en Google Tag Manager)
 <br>
 <img width="1469" alt="image" src="https://github.com/user-attachments/assets/6f3769cd-8296-408e-acd0-8363be7a35b1" />
 
 ### WebPageTest
+
+Linkje naar mijn bevindingen van de [WebPageTest](https://github.com/ambersr/performance-audit/wiki/Bevindingen-WebPageTest) in de Wiki.
 
 **Waterfall chart**
 
