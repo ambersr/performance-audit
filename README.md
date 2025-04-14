@@ -67,7 +67,7 @@ Uit de verschillende tests blijkt dat de grootste knelpunten op de Broese-websit
 
 Daarnaast spelen externe scripts ook een behoorlijke rol. Deze scripts zoals Google Analytics en Google Tag Manager veroorzaken extra netwerkverkeer en vertragen het laadproces van de pagina. Vooral bij trage netwerken of mobiele verbindingen wordt dit probleem versterkt.
 
-Hoe verbeteren?
+**Hoe verbeteren?**
 - Afbeeldingen comprimeren en moderne formaten gebruiken (zoals WebP).
 - Onnodige scripts verminderen.
 - Slimme caching en lazy loading toepassen.
