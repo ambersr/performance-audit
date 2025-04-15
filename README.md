@@ -57,7 +57,7 @@ Linkje naar mijn bevindingen van de [WebPageTest](https://github.com/ambersr/per
 **Waterfall chart**
 
 Belangrijke bevindingen:
-- Externe scripts zorgen voor een lange laattijd
+- Externe scripts zorgen voor een lange laadtijd
 - Afbeeldingen (banner slider) hebben een lange laattijd
 <br>
 <img width="1144" alt="image" src="https://github.com/user-attachments/assets/b781930e-1d0d-4829-b6fc-b03db48b3b66" />
