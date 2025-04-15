@@ -58,7 +58,7 @@ Linkje naar mijn bevindingen van de [WebPageTest](https://github.com/ambersr/per
 
 Belangrijke bevindingen:
 - Externe scripts zorgen voor een lange laadtijd
-- Afbeeldingen (banner slider) hebben een lange laattijd
+- Afbeeldingen (banner slider) hebben een lange laadtijd
 <br>
 <img width="1144" alt="image" src="https://github.com/user-attachments/assets/b781930e-1d0d-4829-b6fc-b03db48b3b66" />
 
