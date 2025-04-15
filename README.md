@@ -1,6 +1,6 @@
 # Boekenwinkel Broese
 
-Broese Boekverkopers, opgericht in 1845 boekhandel in Utrecht en behoort tot de grootste van Nederland. Het assortiment omvat boeken in diverse genres, tijdschriften, spellen, puzzels, muziek (cd's en vinyl) en schrijfwaren
+Broese boekenwinkel, opgericht in 1845 boekhandel in Utrecht en behoort tot de grootste van Nederland. Het assortiment omvat boeken in diverse genres, tijdschriften, spellen, puzzels, muziek (cd's en vinyl) en schrijfwaren
 
 Linkje naar de website: www.broese.nl
 
